@@ -24,10 +24,6 @@ border-[#DEDFE3] mx-auto">
         <section id="hero" class="flex items-center justify-between mt-43.75 mx-[116.1px]">
             <x-landing-hero-section></x-landing-hero-section>
         </section>
-        {{-- Features Section --}}
-        <section id="features" class="pt-40 mt-40 mx-[116.1px] mb-20">
-            <x-landing-features-section></x-landing-features-section>
-        </section>
     </main>
 </body>
 </html>
